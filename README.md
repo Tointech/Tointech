@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Applied AI/ML in Security**
 
-- 📫 How to reach me [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/leanhthunk) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Tointech)
+- 📫 How to reach me [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/leanhthunk)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tointech&theme=radical&show_icons=true" /></p>
 
