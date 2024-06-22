@@ -3,5 +3,5 @@
 
 - 🔭 I’m currently working on **Applied AI in Detecting Cheapfakes**
 - 📝 My [blog](https://tointech.github.io/)
-- 🏫 My [assignments and projects](https://github.com/orgs/Deadinside-at-HCMUS/repositories) at the University
+- 🏫 All [assignments and projects](https://github.com/orgs/Deadinside-at-HCMUS/) at the University
 - 📫 How to reach me: leanhthunk@gmail.com
