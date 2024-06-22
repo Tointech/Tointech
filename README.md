@@ -2,5 +2,6 @@
 <h3 align="center">A lifelong learner</h3>
 
 - 🔭 I’m currently working on **Applied AI in Detecting Cheapfakes**
-- 📝 My [Blog](https://tointech.github.io/) 
-- 📫 How to reach me [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/leanhthunk)
+- 📝 My [blog](https://tointech.github.io/)
+- 🏫 My [assignments and projects](https://github.com/orgs/Deadinside-at-HCMUS/repositories) at the University
+- 📫 How to reach me: leanhthunk@gmail.com
